@@ -1,0 +1,8 @@
+/cheese_website
+│
+├── index.html         # Главная страница
+├── grams.html         # Страница с граммовками
+├── ingredients.html   # Страница с ингредиентами
+├── equipment.html     # Страница с посудой и оборудованием
+├── style.css          # Файл со стилями
+└── script.js          # Файл с JavaScript-кодом
